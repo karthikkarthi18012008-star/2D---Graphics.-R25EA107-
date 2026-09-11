@@ -1,3 +1,6 @@
+
+<h1>C Programming mini project</h1>
+
 2D graphics system using a character-based canvas in C with support for drawing basic shapes like line, rectangle, circle, and triangle.”
 
 Features
